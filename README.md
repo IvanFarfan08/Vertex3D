@@ -1,2 +1,3 @@
-# Vertex3D
-PyTorch model that generates a 3D Mesh given a 2D Input. 
+## Vertex3D
+Vertex3D converts a 2D-Image input to a 3D Model using OpenAI Point-E, that generates point clouds that will later be used by the model to reshape an icosphere into the input shape. 
+
